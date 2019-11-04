@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hola mundo\""
+    "test": "echo \"Hola mundo\"",
     "deploy": "echo \"Me deploy in da produssion\""
   },
   "repository": {
